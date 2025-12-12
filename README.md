@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <h1>🌌 Animation Universe</h1>
+  <p>A cinematic SPA exploring animation techniques, showcases, and galleries. Built with Next.js, React, TypeScript, Tailwind CSS, Framer Motion, and React Icons.</p>
+  <a href="https://hamiparsa.github.io/Animation-Universe/"> 
+    <img src="https://img.shields.io/badge/View_Live_Project-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 
-## Getting Started
+---
 
-First, run the development server:
+## 🌟 About This Project
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Animation Universe** is a visually immersive **SPA** dedicated to exploring animation techniques, masterful showcases, and galleries.  
+It features **full-screen hero effects**, **parallax particles**, **timeline animations**, and **interactive hover effects**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚡ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🖤 **Dark & Neon-Inspired Theme** — sleek cinematic design with vibrant accent colors  
+- ⚛️ **React & Next.js SPA** — smooth client-side navigation and fast performance  
+- 🌀 **Framer Motion Animations** — hero entrance, hover, scroll-based, and gallery animations  
+- 🌠 **Showcase Section** — interactive cinematic frames with hover overlays  
+- 🧩 **Techniques Section** — timeline of animation styles with motion effects  
+- 🖼️ **Gallery Section** — animated grid of artwork and animation stills  
+- 🌌 **Parallax Particles** — floating particle effects with scroll-based motion  
+- 🛠️ **Responsive Design** — desktop, tablet, and mobile optimized  
+- 💻 **Interactive Buttons & UI Elements** — hover effects with neon glow  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧰 Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ **React** | Component-based UI and interactive behavior |
+| 🧭 **Next.js** | SPA routing, server-side rendering, and optimized performance |
+| 🟦 **TypeScript** | Type safety for props, state, and components |
+| 🎨 **Tailwind CSS** | Modern responsive styling with gradients, hover, and glow effects |
+| 🌀 **Framer Motion** | Animations for hero, gallery, timeline, and hover effects |
+| 🖼️ **React Icons** | Icons for UI, timeline markers, and sections |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 💡 Description
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Users can:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Explore the **Hero section** with animated title, parallax particles, and glowing backgrounds  
+- Scroll through **Showcase, Techniques Timeline, and Gallery** sections  
+- Hover over **showcase and gallery cards** to reveal cinematic details  
+- Enjoy **responsive and smooth SPA experience**  
+- Interact with **timeline of animation techniques** with subtle motion effects  
+
+This project demonstrates **modern SPA design, cinematic UI, parallax effects, and animation-focused interactivity**.
+
+---
+
+## 🖼️ Project Preview
+
+<div align="center">
+  <img src="/showcase1.png" width="700px" />
+  <br/><br/>
+  <img src="/gallery1.png" width="700px" />
+</div>
+
+---
+
+## 👨‍💻 Author
+
+**Developed by:** [HamiParsa](https://github.com/HamiParsa)  
+💬 Front-End Developer | Building interactive, cinematic, and visually immersive websites
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,framer,reacticons" />
+</div>
