@@ -59,9 +59,9 @@ This project demonstrates **modern SPA design, cinematic UI, parallax effects, a
 ## 🖼️ Project Preview
 
 <div align="center">
-  <img src="/showcase1.png" width="700px" />
+  <img src="/pic1.png" width="700px" />
   <br/><br/>
-  <img src="/gallery1.png" width="700px" />
+  <img src="/pic2.png" width="700px" />
 </div>
 
 ---
